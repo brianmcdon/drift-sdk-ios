@@ -1,6 +1,1 @@
-[submodule "Carthage/Checkouts/Gloss"]
-	path = Carthage/Checkouts/Gloss
-	url = https://github.com/hkellaway/Gloss.git
-[submodule "Carthage/Checkouts/releases-ios"]
-	path = Carthage/Checkouts/releases-ios
-	url = https://github.com/layerhq/releases-ios.git
+
